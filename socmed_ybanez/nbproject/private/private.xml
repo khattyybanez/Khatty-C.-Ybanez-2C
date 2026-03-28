@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/models/signup_account.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/models/logout_account.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/models/login_account.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/models/add_post.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/db/dbconnect.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/index.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/login.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/profile.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/views/footer.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/views/header.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/models/load_userpost.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/timeline.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/views/res/style.css</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/models/load_timeline.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/views/res/tres.jpg</file>
+            <file>file:/C:/xampp/htdocs/socmed_ybanez/views/res/siko.jpg</file>
+        </group>
+    </open-files>
+</project-private>
